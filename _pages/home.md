@@ -15,4 +15,6 @@ My research interest includes computer vision, computer graphics, and machine le
 
 For more information
 ======
-Waiting for the next update or please add my [Wechat](../images/WeChat.jpg)
+Waiting for the next update.
+
+[Wechat](../images/WeChat.jpg)
