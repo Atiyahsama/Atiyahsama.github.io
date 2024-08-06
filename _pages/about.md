@@ -14,4 +14,4 @@ My research interest includes computer vision, computer graphics, machine learni
 
 For more information
 ======
-Waiting for the next update or add my WeChat please(../images/WeChat.jpg)
+Waiting for the next update or please add my [Wechat](../images/WeChat.jpg)
