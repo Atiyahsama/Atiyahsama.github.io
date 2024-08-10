@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "tama.png"
   name             : "Shi-Hang Yang"
-  pronouns         : "杨世航"
+  pronouns         : # ""
   bio              : "A budding intern and research assistant."
   location         : "Beijing"
   employer         : "Peking University"
