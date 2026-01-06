@@ -1,22 +1,7 @@
 ---
 layout: publication
 title: "Subthalamic nucleus deep brain stimulation for cranial-cervical dystonia: optimal stimulation sites and networks"
-authors: 
-  - Hutao Xie
-  - Jiansong Huang
-  - Ningfei Li
-  - Houyou Fan
-  - Shi-Hang Yang
-  - Zixiao Yin
-  - Zhaoting Zheng
-  - Zehua Zhao
-  - Yin Jiang
-  - Lin Shi
-  - Anchao Yang
-  - Fangang Meng
-  - Guanyu Zhu
-  - Quan Zhang
-  - Jianguo Zhang
+author: "Hutao Xie, Jiansong Huang, Shihang Yang, Guanyu Zhu*, Quan Zhang**, Jianguo Zhang***"
 venue: "Brain Stimulation"
 volume: 18
 issue: 5
