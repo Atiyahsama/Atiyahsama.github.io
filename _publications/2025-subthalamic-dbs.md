@@ -17,11 +17,11 @@ authors:
   - Guanyu Zhu
   - Quan Zhang
   - Jianguo Zhang
-journal: "Brain Stimulation"
+venue: "Brain Stimulation"
 volume: 18
 issue: 5
 pages: "1539-1550"
-year: 2025
+date: 2025-09-01
 doi: "10.1016/j.brs.2025.08.003"
 url: "https://www.sciencedirect.com/science/article/pii/S1935861X25002979?via%3Dihub"
 abstract: |
