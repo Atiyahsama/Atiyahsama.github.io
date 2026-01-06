@@ -31,6 +31,6 @@ highlights:
   - "Optimal stimulation site for CCD is in the posterodorsolateral motor STN."
   - "Modulating fibers to cranial-cervical sensorimotor cortex improves outcomes."
   - "Symptom-based classification helps guide individualized DBS targeting."
-pdf: "files/CCD-STN-DBS.pdf"  # 如果你有 PDF 文件可以放在 /files/
+pdf: "files/CCD-STN-DBS.pdf"
 open_access: true
 ---
