@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). 
 
-My research interest includes computer vision, computer graphics, and machine learning.
+I am a final-year undergraduate student majoring in Information and Computational Science at the School of Electrical Engineering and Computer Science (EECS), Peking University.
 
+I have secured a spot for my graduate studies (Master's) in Natural Language Processing at the School of Computer Science, Peking University, starting next academic year.
+
+My current research interests include Computer Vision, Multimodality, and Natural Language Processing.
 
 
 For more information
