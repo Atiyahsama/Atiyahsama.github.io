@@ -17,6 +17,4 @@ My current research interests include Computer Vision, Multimodality, and Natura
 
 For more information
 ======
-Waiting for the next update.
-
-[Wechat](../images/WeChat.jpg)
+You can explore my [Publications](publications/)
