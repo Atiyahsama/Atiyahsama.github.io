@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-I am a final-year undergraduate student majoring in Information and Computational Science at the School of Electrical Engineering and Computer Science (EECS), Peking University.
+I am a final-year undergraduate student majoring in **Information and Computational Science** at the School of Electrical Engineering and Computer Science (EECS), **Peking University**.
 
-I have secured a place in the Master’s program in Natural Language Processing at the School of Computer Science, Peking University, starting next academic year.
+I have secured a place in the Master’s program in **Natural Language Processing** at the School of Computer Science, **Peking University**, starting next academic year.
 
-My current research interests include Computer Vision, Multimodality, and Natural Language Processing.
+My current research interests include **Computer Vision**, **Multimodality**, and **Natural Language Processing**.
 
 
 For more information
